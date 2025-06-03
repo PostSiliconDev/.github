@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to PostSilicon 👋
+
+a dynamic collective of forward-thinking programmers pushing the boundaries of technology beyond the silicon era. We are dedicated to pioneering innovative coding solutions, exploring next-gen computing paradigms like blockchain and AI systems, and redefining the future of software development. Join us as we code the next frontier!
+
+## Projects by us 🚀
+### Blockchain
+
+### AI
+
+### Game
 
 <!--
 
