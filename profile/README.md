@@ -3,17 +3,17 @@
 a dynamic collective of forward-thinking programmers pushing the boundaries of technology beyond the silicon era. We are dedicated to pioneering innovative coding solutions, exploring next-gen computing paradigms like blockchain and AI systems, and redefining the future of software development. Join us as we code the next frontier!
 
 ## Projects by us 🚀
-### Blockchain
-[chamomile](https://github.com/postsilicondev/chamomile) Lightweight robust p2p library
-[ESSE](https://github.com/postsilicondev/ESSE) Encrypted peer-to-peer IM
-[TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network
+#### Blockchain
+[chamomile](https://github.com/postsilicondev/chamomile) Lightweight robust p2p library  
+[ESSE](https://github.com/postsilicondev/ESSE) Encrypted peer-to-peer IM application    
+[TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network for dapps  
 
-### AI
-[Geno](https://github.com/postsilicondev/Geno) A self-upgrade AI agent
-[Lumora](https://github.com/postsilicondev/Lumora) A lightweight AI-friendly language targeting WebAssembly
+#### AI
+[Geno](https://github.com/postsilicondev/Geno) A self-upgrade, code-first AI agent framework  
+[Lumora](https://github.com/postsilicondev/Lumora) A lightweight AI-friendly language targeting WebAssembly  
 
-### Game
-[Boundless-Immortality](https://github.com/postsilicondev/Boundless-Immortality) A traditional Chinese style game of cultivating immortals
+#### Game
+[Boundless-Immortality](https://github.com/postsilicondev/Boundless-Immortality) A traditional Chinese style game of cultivating immortals  
 
 <!--
 
