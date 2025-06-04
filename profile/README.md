@@ -4,10 +4,16 @@ a dynamic collective of forward-thinking programmers pushing the boundaries of t
 
 ## Projects by us 🚀
 ### Blockchain
+[chamomile](https://github.com/postsilicondev/chamomile) Lightweight robust p2p library
+[ESSE](https://github.com/postsilicondev/ESSE) Encrypted peer-to-peer IM
+[TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network
 
 ### AI
+[Geno](https://github.com/postsilicondev/Geno) A self-upgrade AI agent
+[Lumora](https://github.com/postsilicondev/Lumora) A lightweight AI-friendly language targeting WebAssembly
 
 ### Game
+[Boundless-Immortality](https://github.com/postsilicondev/Boundless-Immortality) A traditional Chinese style game of cultivating immortals
 
 <!--
 
