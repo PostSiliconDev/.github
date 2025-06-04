@@ -4,8 +4,8 @@ a dynamic collective of forward-thinking programmers pushing the boundaries of t
 
 ## Projects by us 🚀
 #### Blockchain
-[chamomile](https://github.com/postsilicondev/chamomile) Lightweight robust p2p library   
-[TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network for dapps  
+[chamomile](https://github.com/postsilicondev/chamomile) Lightweight p2p library for stable and robust connection on decentralized network  
+[TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network, a micro-framework for building decentralized applications 
 
 #### AI
 [Geno](https://github.com/postsilicondev/Geno) A self-upgrade, code-first AI agent framework  
@@ -14,8 +14,8 @@ a dynamic collective of forward-thinking programmers pushing the boundaries of t
 #### Game
 [Boundless-Immortality](https://github.com/postsilicondev/Boundless-Immortality) A traditional Chinese style game of cultivating immortals  
 
-## Orgs by us ✨
-[CympleTech](https://github.com/cympletech) Building encrypted decentralized communications  
+## Organizations by us ✨
+[CympleTech (ESSE)](https://github.com/cympletech) Building encrypted decentralized communications  
 
 <!--
 
