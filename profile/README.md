@@ -7,7 +7,7 @@ a dynamic collective of forward-thinking programmers pushing the boundaries of t
 [chamomile](https://github.com/postsilicondev/chamomile) Lightweight p2p library for stable and robust connection on decentralized network  
 [TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network, a micro-framework for building decentralized applications  
 [crepedb](https://github.com/PostSiliconDev/crepedb) An versioned and forkable embedded Key-Value database. Aims to blockchain storage.  
-[sigwa](https://github.com/PostSiliconDev/sigwa) Balance of cryto, cxchange and bank in 1 app
+[sigwa](https://github.com/PostSiliconDev/sigwa) Balance of cryto, exchange and bank in 1 app
 
 #### AI
 [Geno](https://github.com/postsilicondev/Geno) A self-upgrade, code-first AI agent framework  
