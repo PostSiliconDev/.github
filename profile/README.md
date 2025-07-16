@@ -1,6 +1,8 @@
 ## Welcome to PostSilicon 👋
 
-a dynamic collective of forward-thinking programmers pushing the boundaries of technology beyond the silicon era. We are dedicated to pioneering innovative coding solutions, exploring next-gen computing paradigms like blockchain and AI systems, and redefining the future of software development. Join us as we code the next frontier!
+a dynamic collective of forward-thinking programmers pushing the boundaries of technology beyond the silicon era. We are dedicated to pioneering innovative coding solutions, exploring next-gen computing paradigms like blockchain and AI, and redefining the future of software development. Join us as we code the next frontier!
+
+Now, we are building the next-generation AI assistant system.
 
 ## Projects by us 🚀
 #### Blockchain
