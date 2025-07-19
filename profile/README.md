@@ -12,7 +12,7 @@ Now, we are building the next-generation AI assistant system.
 [sigwa](https://github.com/PostSiliconDev/sigwa) Balance of cryto, exchange and bank in 1 app
 
 #### AI
-[Geno](https://github.com/postsilicondev/Geno) A self-upgrade, code-first AI agent framework  
+[Geno](https://github.com/postsilicondev/Geno) An open and free future personal assistant system with self-upgrade, code-first AI agents  
 [Lumora](https://github.com/postsilicondev/Lumora) A lightweight AI-friendly language targeting WebAssembly  
 
 #### Game
