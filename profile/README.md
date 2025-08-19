@@ -8,8 +8,9 @@ Now, we are building the next-generation AI assistant system.
 #### Blockchain
 [chamomile](https://github.com/postsilicondev/chamomile) Lightweight p2p library for stable and robust connection on decentralized network  
 [TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network, a micro-framework for building decentralized applications  
-[crepedb](https://github.com/PostSiliconDev/crepedb) An versioned and forkable embedded Key-Value database. Aims to blockchain storage.  
-[sigwa](https://github.com/PostSiliconDev/sigwa) Balance of cryto, exchange and bank in 1 app
+[crepedb](https://github.com/PostSiliconDev/crepedb) An versioned and forkable embedded Key-Value database. Aims to blockchain storage  
+[sigwa](https://github.com/PostSiliconDev/sigwa) Balance of cryto, exchange and bank in 1 app  
+[TurboPlonK](https://github.com/PostSiliconDev/TurboPlonK) App-specific TurboPlonK with various gadgets & primitives  
 
 #### AI
 [Geno](https://github.com/postsilicondev/Geno) An open and free future personal assistant system with self-upgrade, code-first AI agents  
