@@ -2,10 +2,9 @@
 
 a dynamic collective of forward-thinking programmers pushing the boundaries of technology beyond the silicon era. We are dedicated to pioneering innovative coding solutions, exploring next-gen computing paradigms like blockchain and AI, and redefining the future of software development. Join us as we code the next frontier!
 
-Now, we are building the next-generation AI assistant system.
-
 ## Projects by us 🚀
 #### Blockchain
+[AuditZero](https://github.com/PostSiliconDev/AuditZero) Auditable zkPayments Across Chains
 [chamomile](https://github.com/postsilicondev/chamomile) Lightweight p2p library for stable and robust connection on decentralized network  
 [TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network, a micro-framework for building decentralized applications  
 [crepedb](https://github.com/PostSiliconDev/crepedb) An versioned and forkable embedded Key-Value database. Aims to blockchain storage  
