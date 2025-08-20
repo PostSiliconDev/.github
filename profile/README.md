@@ -23,9 +23,6 @@ Now, we are building the next-generation AI assistant system.
 [serviceless](https://github.com/PostSiliconDev/serviceless) Lightwight actor model in rust  
 [haven](https://github.com/PostSiliconDev/haven) Replacement of dnsmasq  
 
-## Organizations by us ✨
-[CympleTech (ESSE)](https://github.com/cympletech) Building encrypted decentralized communications  
-
 <!--
 
 **Here are some ideas to get you started:**
