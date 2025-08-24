@@ -4,7 +4,7 @@ a dynamic collective of forward-thinking programmers pushing the boundaries of t
 
 ## Projects by us 🚀
 #### Blockchain
-[AuditZero](https://github.com/PostSiliconDev/AuditZero) Auditable zkPayments Across Chains  
+[AuditZero](https://github.com/PostSiliconDev/AuditZero) Auditable cross-chain gas-free zkPayments  
 [chamomile](https://github.com/postsilicondev/chamomile) Lightweight p2p library for stable and robust connection on decentralized network  
 [TDN](https://github.com/postsilicondev/TDN) Trusted Distributed Network, a micro-framework for building decentralized applications  
 [crepedb](https://github.com/PostSiliconDev/crepedb) An versioned and forkable embedded Key-Value database. Aims to blockchain storage  
